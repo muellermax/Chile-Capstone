@@ -1,6 +1,8 @@
 #### Data CASEN
 
 
+https://www.tablesgenerator.com/markdown_tables
+
 ###### Educacion
 * e1: Sabe leer y escribir?
 * e6a: ¿Cuál fue el nivel educacional más alto alcanzado o el nivel educacional actual?
