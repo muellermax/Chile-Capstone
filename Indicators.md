@@ -34,8 +34,6 @@ https://www.tablesgenerator.com/markdown_tables
 * s27a. ¿Ha estado hospitalizado o se ha realizado alguna intervención quirúrgica?
 * s28. Durante los últimos 12 meses, ¿ha estado en tratamiento médico por..?
 * s31a1 ¿Tiene alguna de las siguientes condiciones permanentes? Cond. 1
-* s31a2 ¿Tiene alguna de las siguientes condiciones permanentes? Cond. 2
-* s31a3 ¿Tiene alguna de las siguientes condiciones permanentes? Cond. 3
 * s32c. ¿Cuánta dificultad tiene para Moverse/desplazarse dentro de la casa?
 * s33g1. ¿Cuánta dificultad tiene para Salir a la calle?
 * s33i1. ¿Cuánta dificultad tiene para Realizar sus tareas del hogar?
@@ -45,7 +43,6 @@ https://www.tablesgenerator.com/markdown_tables
 ###### Red
 
 * r1a. ¿Cuál es la nacionalidad?
-* r1a_cod. ¿Cuál es esa otra nacionalidad? (código país)
 * r3. Pueblos indígenas, ¿pertenece usted o es descendiente de alguno de ellos?
 * r7c. Pueda facilitar un vehículo si el hogar lo necesita
 * r8a. ¿Usted y otra persona en su hogar se preocupó por no tener suficientes alimentos para comer por falta de dinero u otros recursos?
