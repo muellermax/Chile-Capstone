@@ -76,7 +76,7 @@ Every contribution is welcome. In the Medium blogpost, I have written some ideas
 
 Thanks to the [Chilean Ministry of Science, Technology, Knowledge and Innovation](https://www.gob.cl/ministerios/ministerio-de-ciencia-tecnologia-conocimiento-e-innovacion/) and the [Chilean Data Observatory](http://dataobservatory.net/) for providing daily updated data about Covid-19 on their [GitHub](https://github.com/MinCiencia/Datos-COVID19). Also thanks to the [Center for Systems Science and Engineering (CSSE) at John Hopkins University](https://github.com/CSSEGISandData/COVID-19).
 Furthermore the socio-economic CASEN data, provided by the [Chilean Ministry of Social Development](http://www.desarrollosocialyfamilia.gob.cl/) was very useful and enabled me to make this investigation. I also relied on [WorldBank population data](https://data.worldbank.org/indicator/SP.POP.TOTL).
-Also thanks to [Juan Manuel Núñez Méndez](https://unsplash.com/@juanmanunez?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) who provided the foto for my Medium blogpost. 
+Also thanks to [Juan Manuel Núñez Méndez](https://unsplash.com/@juanmanunez?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) who provided the foto for my Medium blogpost and the project on GitHub. 
 Finally, I would like to thank Udacity, Codecademy and Stackoverflow for allways providing answers to my questions.
 
 
