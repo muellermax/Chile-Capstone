@@ -58,7 +58,7 @@ The CASEN study is realized every two years, e.g. to track the percentage of fam
 
 ## <a class="anchor" id="findings">Findings</a>
 
-You can find my analysis and my findings in the [Medium blogpost](https://medium.com/@muellermax1985/prediction-of-covid-19-in-chile-with-mobility-data-and-socioeconomic-background-d2672dcb330a). 
+You can find my analysis and my findings in the [Medium blogpost](https://medium.com/@muellermax1985/how-do-social-indicators-drive-the-spread-of-covid-19-in-chile-86b0affb0442). 
 
 
 ## <a class="anchor" id="file-description">File description</a>
